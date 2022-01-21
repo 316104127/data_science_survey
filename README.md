@@ -1,3 +1,3 @@
 # data_science_survey
 
-Recomendo qe abra no colab para melhor visualização
+Recomendo que abra no colab para melhor visualização
